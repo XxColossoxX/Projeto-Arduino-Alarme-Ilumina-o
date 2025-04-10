@@ -106,5 +106,8 @@ Link:https://d1wqtxts1xzle7.cloudfront.net/63151155/2019_capitulo_Estufa20200430
 Cadeia de produção, comercialização e logística de sementes, mudas e plantas ornamentais no Estado de São Paulo - Douglas Brand (2014) <br>
 Link: https://lume.ufrgs.br/handle/10183/268100
 
+## Link do projeto no TinkerCard:
+Link: https://www.tinkercad.com/things/2uFBdQlVPYp/editel?returnTo=%2Fdashboard
+
  
 
